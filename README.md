@@ -29,10 +29,10 @@ const diego = {
 
 <br/>
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,git,github&theme=dark" />
 </div>
 
 <br/>
@@ -40,6 +40,8 @@ const diego = {
 ## 🌱 Atualmente estudando
 
 <div align="left">
+
+**Python · Java · C/C++ · SQL** — aprofundando na prática
 
 **Estruturas de Dados**
 ![](https://progress-bar.xyz/60/?title=progresso&width=250&color=2c5364)
@@ -49,7 +51,11 @@ const diego = {
 
 </div>
 
-> Percentuais ilustrativos — ajuste-os conforme sua evolução real em cada tópico.
+<br/>
+
+## 🎯 Objetivo profissional
+
+Construir uma base sólida em desenvolvimento de software, com foco em backend, dados e desenvolvimento de aplicações.
 
 <br/>
 
@@ -115,4 +121,3 @@ const diego = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-
