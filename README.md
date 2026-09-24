@@ -103,16 +103,6 @@ const diego = {
 
 <br/>
 
-## 📊 Atividade recente
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Diego-Carvalho-1901/Diego-Carvalho-1901/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-
-
-<br/>
-
 ## 📫 Contato
 
 <div align="center">
