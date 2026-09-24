@@ -1,102 +1,128 @@
-<h1 align="center">Olá, eu sou o Diego 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Estudante de Engenharia de Computação na CEUB, em formação como desenvolvedor,<br/>
-  com foco em backend, dados e desenvolvimento de software.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=200&section=header&text=Diego%20Carvalho&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Backend%20%C2%B7%20Dados%20%C2%B7%20Software&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diego-viveiros-b50237369/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:diegaogalo13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/diego-viveiros-b50237369/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:diegaogalo13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Diego-Carvalho-1901&style=for-the-badge&color=2c5364&label=Visitas+no+perfil" alt="Visitas no perfil"/>
 
----
+</div>
 
-### 🧑‍💻 Sobre mim
+<br/>
 
-- 🎓 Graduando em **Engenharia de Computação** — CEUB
-- 💻 Desenvolvedor em formação, aprendendo na prática todos os dias
-- 🎯 Interesse principal em **backend, dados e desenvolvimento de software**
-- 🌱 Estudando atualmente: **Estruturas de Dados** e **Algoritmos**
-- 🚀 Objetivo: construir uma base sólida em desenvolvimento de software, com foco em backend, dados e aplicações escaláveis
+## 🧑‍💻 Sobre mim
 
----
+```txt
+const diego = {
+    formacao: "Engenharia de Computação — CEUB",
+    momentoAtual: "Desenvolvedor em formação",
+    interesses: ["Backend", "Dados", "Desenvolvimento de Software"],
+    estudandoAgora: ["Estruturas de Dados", "Algoritmos"],
+    objetivo: "Construir uma base sólida em desenvolvimento de software,
+                com foco em backend, dados e aplicações escaláveis."
+};
+```
 
-### 🛠️ Stack principal
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+## 🛠️ Stack & Ferramentas
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,git,github,vscode&theme=dark" />
+</div>
 
-### 🚀 Projetos em destaque
+<br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Diego-Carvalho-1901/analisador-vendas-csv">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Carvalho-1901&repo=analisador-de-vendas-csv&theme=default" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Diego-Carvalho-1901/sistema-controle-financeiro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Carvalho-1901&repo=sistema-controle-financeiro&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 🌱 Atualmente estudando
 
+<div align="left">
 
-**📊 Analisador de Vendas CSV** — ferramenta em Python para leitura e análise de dados de vendas a partir de arquivos CSV, gerando insights e relatórios.
+**Estruturas de Dados**
+![](https://progress-bar.xyz/60/?title=progresso&width=250&color=2c5364)
+
+**Algoritmos**
+![](https://progress-bar.xyz/55/?title=progresso&width=250&color=2c5364)
+
+</div>
+
+> Percentuais ilustrativos — ajuste-os conforme sua evolução real em cada tópico.
+
+<br/>
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/Diego-Carvalho-1901/analisador-vendas-csv">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Carvalho-1901&repo=analisador-vendas-csv&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Diego-Carvalho-1901/sistema-controle-financeiro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Carvalho-1901&repo=sistema-controle-financeiro&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+**📊 Analisador de Vendas CSV** — ferramenta em Python para leitura e análise de dados de vendas a partir de arquivos CSV, com geração de relatórios e insights.
 
 **💰 Sistema de Controle Financeiro** — aplicação para registro e acompanhamento de receitas e despesas pessoais.
 
----
+<br/>
 
-### 📂 Outros projetos
+<details>
+<summary><strong>📂 Ver outros projetos</strong></summary>
+<br/>
 
 | Projeto | Descrição |
 |---|---|
-| [Receitas do Povo](https://github.com/Diego-Carvalho-1901/Projeto-Receitas-do-povo) | Projeto voltado à consulta/organização de receitas públicas |
+| [Receitas do Povo](https://github.com/Diego-Carvalho-1901/Projeto-Receitas-do-povo) | Consulta/organização de receitas públicas |
 | [Calculadora Simples](https://github.com/Diego-Carvalho-1901/calculadora-simples) | Calculadora básica para praticar lógica de programação |
 | [POO](https://github.com/Diego-Carvalho-1901/POO) | Exercícios e projetos de Programação Orientada a Objetos |
 | [BDII — 3º Semestre CEUB](https://github.com/Diego-Carvalho-1901/BDII_3Semestre_CEUB) | Trabalhos da disciplina de Banco de Dados II |
 | [Desafio Intermediário — Bootcamp](https://github.com/Diego-Carvalho-1901/desafio-intermediario-bootcamp) | Desafio técnico realizado em bootcamp |
 
----
+</details>
 
-### 📈 Estatísticas do GitHub
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-Carvalho-1901&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Carvalho-1901&layout=compact&theme=default&hide_border=true"/>
-</p>
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Carvalho-1901&theme=default&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-Carvalho-1901&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Carvalho-1901&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 
-### 📫 Onde me encontrar
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Carvalho-1901&theme=dark&hide_border=true&background=0d1117"/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/diego-viveiros-b50237369/">LinkedIn</a> ·
-  <a href="https://github.com/Diego-Carvalho-1901">GitHub</a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Diego-Carvalho-1901&theme=darkhub&no-frame=true&margin-w=8&row=1" />
 
-<p align="center"><sub>Perfil em constante atualização conforme novos projetos e habilidades são desenvolvidos 🚀</sub></p>
+</div>
+
+<br/>
+
+## 📊 Atividade recente
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Diego-Carvalho-1901/Diego-Carvalho-1901/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+
+
+<br/>
+
+## 📫 Contato
+
+<div align="center">
+<a href="https://www.linkedin.com/in/diego-viveiros-b50237369/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Diego-Carvalho-1901">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
