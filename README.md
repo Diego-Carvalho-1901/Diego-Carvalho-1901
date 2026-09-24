@@ -16,16 +16,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-```txt
-const diego = {
-    formacao: "Engenharia de Computação — CEUB",
-    momentoAtual: "Desenvolvedor em formação",
-    interesses: ["Backend", "Dados", "Desenvolvimento de Software"],
-    estudandoAgora: ["Estruturas de Dados", "Algoritmos"],
-    objetivo: "Construir uma base sólida em desenvolvimento de software,
-                com foco em backend, dados e aplicações escaláveis."
-};
-```
+| | |
+|---|---|
+| 🎓 **Formação** | Engenharia de Computação — CEUB |
+| 💻 **Momento atual** | Desenvolvedor em formação |
+| 🎯 **Interesses** | Backend · Dados · Desenvolvimento de Software |
 
 <br/>
 
@@ -41,7 +36,17 @@ const diego = {
 
 <div align="left">
 
-**Python · Java · C/C++ · SQL** — aprofundando na prática
+**Python**
+![](https://progress-bar.xyz/70/?title=progresso&width=250&color=2c5364)
+
+**Java**
+![](https://progress-bar.xyz/55/?title=progresso&width=250&color=2c5364)
+
+**C/C++**
+![](https://progress-bar.xyz/45/?title=progresso&width=250&color=2c5364)
+
+**SQL**
+![](https://progress-bar.xyz/65/?title=progresso&width=250&color=2c5364)
 
 **Estruturas de Dados**
 ![](https://progress-bar.xyz/60/?title=progresso&width=250&color=2c5364)
@@ -50,6 +55,7 @@ const diego = {
 ![](https://progress-bar.xyz/55/?title=progresso&width=250&color=2c5364)
 
 </div>
+
 
 <br/>
 
