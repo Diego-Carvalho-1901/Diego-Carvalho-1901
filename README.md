@@ -37,22 +37,22 @@
 <div align="left">
 
 **Python**
-![](https://progress-bar.xyz/70/?title=progresso&width=250&color=2c5364)
+![](https://progress-bar.xyz/72/?title=progresso&width=250&color=2c5364)
 
 **Java**
-![](https://progress-bar.xyz/55/?title=progresso&width=250&color=2c5364)
+![](https://progress-bar.xyz/52/?title=progresso&width=250&color=2c5364)
 
 **C/C++**
-![](https://progress-bar.xyz/45/?title=progresso&width=250&color=2c5364)
+![](https://progress-bar.xyz/58/?title=progresso&width=250&color=2c5364)
 
 **SQL**
-![](https://progress-bar.xyz/65/?title=progresso&width=250&color=2c5364)
+![](https://progress-bar.xyz/70/?title=progresso&width=250&color=2c5364)
 
 **Estruturas de Dados**
-![](https://progress-bar.xyz/60/?title=progresso&width=250&color=2c5364)
+![](https://progress-bar.xyz/68/?title=progresso&width=250&color=2c5364)
 
 **Algoritmos**
-![](https://progress-bar.xyz/55/?title=progresso&width=250&color=2c5364)
+![](https://progress-bar.xyz/62/?title=progresso&width=250&color=2c5364)
 
 </div>
 
