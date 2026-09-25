@@ -67,20 +67,10 @@ Construir uma base sólida em desenvolvimento de software, com foco em backend, 
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/Diego-Carvalho-1901/analisador-vendas-csv">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Carvalho-1901&repo=analisador-vendas-csv&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/Diego-Carvalho-1901/sistema-controle-financeiro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego-Carvalho-1901&repo=sistema-controle-financeiro&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
-**📊 Analisador de Vendas CSV** — ferramenta em Python para leitura e análise de dados de vendas a partir de arquivos CSV, com geração de relatórios e insights.
-
-**💰 Sistema de Controle Financeiro** — aplicação para registro e acompanhamento de receitas e despesas pessoais.
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 📊 **[Analisador de Vendas CSV](https://github.com/Diego-Carvalho-1901/analisador-vendas-csv)** | Ferramenta em Python para leitura e análise de dados de vendas a partir de arquivos CSV, com geração de relatórios e insights. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 💰 **[Sistema de Controle Financeiro](https://github.com/Diego-Carvalho-1901/sistema-controle-financeiro)** | Aplicação para registro e acompanhamento de receitas e despesas pessoais. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 <br/>
 
